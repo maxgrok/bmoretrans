@@ -4,52 +4,35 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
+A coalition of Trans led and Trans inclusive organizations in Baltimore City working towards the upward mobility and empowerment of Transgender residents through advocacy and education.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
+## Mission
 
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
+"Unify, Reclaim, Empower"
+The Baltimore Transgender Alliance works to uplift the voices of transgender and gender non-conforming people in Baltimore City and continually center our community’s needs in broader political conversations. In July of 2015, we held the Baltimore Trans Uprising protest to highlight the systemic injustices that leave trans women of color vulnerable to violence and harassment. In November of 2015, we participated in a national Trans March of Resilience to both honor the trans people who have died and demonstrate the strength and solidarity of community and our movement. We are parents, artists, business owners, students, and citizens representing ourselves in public and refusing to back down.
 
-## Education
+## Team
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
+* Monica Stevens 
+* Ken Jiretsu
+* Tyler Vile
+* Evan Mahone
+* Cola Anderson
 
-## Roles
-
-Founder, ABC Organisation
-
-## Skills
-
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
+Founder, Bryanna A. Jenkins 
     
-    
-## Achievements
+## Awards
 
-
-* [**This is my first achievement**](#) 
+* [**University of Baltimore OutLaw Colbalt Award 2016**](#) 
    
    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
 ***
 
-* [**This is my second achievement**](#) 
+* [**Baltimore Pride 2016: Organization of the Year**](#) 
 
     Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
-***
-
-* [**This is my third achievement**](#) 
-
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
-
-
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[info@bmoretransalliance.com](mailto:info@bmoretransalliance.com)
